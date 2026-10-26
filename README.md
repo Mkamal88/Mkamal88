@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Python backend engineer with 7+ years of hands-on experience designing, building, and maintaining high-performance backend systems and scalable web applications — part of a broader 15-year career in software development. I've owned end-to-end system design and architecture, including building platforms from the ground up, and have a track record of building high-availability APIs and data pipelines for production platforms.
+Tech Lead and Python backend engineer with 10+ years of hands-on experience designing, building, and maintaining high-performance backend systems and scalable web applications — part of a broader 15-year career in software development. I've owned end-to-end system design and architecture, including building platforms from the ground up, and have a track record of building high-availability APIs and data pipelines for production platforms.
 
 Most recently, I've been leading GenAI initiatives — building LLM-powered agentic workflows, including customer-facing support agents and data-analysis agents that generate recommendations, with function-calling, memory handling, and prompt optimization.
 
